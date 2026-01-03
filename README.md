@@ -5,7 +5,7 @@
 
 Sistema de monitoreo en tiempo real del estado de las principales pasarelas de pago chilenas.
 
-![Estado del Proyecto](https://img.shields.io/badge/status-active-success.svg)
+![Estado del Proyecto](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![React](https://img.shields.io/badge/react-18.2-61dafb.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688.svg)
